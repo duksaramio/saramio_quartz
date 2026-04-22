@@ -13,7 +13,7 @@ If you are a life science company and believe that AI is the future, we can help
 - AI Agents 
 - Backup and Restore
 - Disaster Recovery
-- Vulnerability Testing and Mitigation
+- Vulnerability Testing and Mitigation [[Agent Skills for Vulnerability Testing]] 
 - IT Project Management 
 - Networking 
 
